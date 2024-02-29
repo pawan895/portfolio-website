@@ -125,8 +125,19 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
-
+  const skills = [
+    'JavaScript (ES6+)',
+    'React JS',
+    'Redux',
+    'HTML',
+    'CSS',
+    'Tailwind CSS',
+    'Node.js',
+    'Express.js',
+    'MongoDB',
+    'Git',
+    'GitHub',
+  ];
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
@@ -135,30 +146,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Pawan, and I like building innovative web applications. I am
+              currently pursuing my M.Tech in Software Engineering (integrated) from Vellore
+              Institute of Technology.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I have experience in frontend technologies such as JavaScript (ES6+), React JS, Redux,
+              HTML, CSS, and Styled Components. On the backend, I am proficient in Node.js,
+              Express.js, and MongoDB. I also have experience with version control using Git and
+              GitHub.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              This AI trend has got me trying to learn more about it. I am currently learning data
+              Science and Machine Learning. I've worked on projects where I integrated both my
+              knowledge of web development and AI to create a full-stack application.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
