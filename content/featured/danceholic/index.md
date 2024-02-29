@@ -2,8 +2,8 @@
 date: '1'
 title: 'DanceHolic'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/pawan895/Dancify/'
+external: 'https://www.linkedin.com/posts/pawankumar-b-482728184_hi-folks-sharing-my-project-danceholics-activity-7165717013737267202-l6KU?utm_source=share&utm_medium=member_desktop'
 tech:
   - React JS
   - Tailwind CSS

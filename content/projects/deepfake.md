@@ -1,7 +1,7 @@
 ---
 date: '2024-02-01'
 title: 'Deep-fake prediction'
-github: 'https://github.com/pawan895/HoneyTokens-Internet-Security-analysis'
+github: 'https://github.com/pawan895/deepfake-detection'
 external: ''
 tech:
   - AI/ML
